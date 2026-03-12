@@ -17,11 +17,16 @@
 ###   ●	Geometry instruments.
 
 ## PROCEDURE:
-###  Configuration diagram
-###  Assume scale 1:10
-###  1. Draw a horizontal line and locate C 
-###  2. At C, draw CB of length 20 mm inclined at 1200 
-###  3. With B as centre, BA 60mm, draw an arc to cut the horizontal at A. Join BA to complete the configuration diagram 
+### 1.Draw the configuration diagram of the slider crank mechanism using the given lengths of crank (CB = 200 mm) and connecting rod (BA = 600 mm).
+
+### 2.Mark the given position of the crank and identify all the links and joints clearly.
+
+### 3.Calculate the velocity of point B using the angular speed of the crank (50 rad/s).
+
+### 4.Construct the velocity diagram to determine the velocity of the slider A and the relative velocity between the links.
+
+### 5.Use the obtained values to simulate and verify the displacement and velocity of the mechanism. 
+  
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/0e905314-0fc5-4e13-a513-67c95aced702)
 
