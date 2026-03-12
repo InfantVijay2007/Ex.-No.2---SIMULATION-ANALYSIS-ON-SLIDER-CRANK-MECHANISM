@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/2f3864dd-3a3d-4ed6-8df3-e69c112bcd43" /># Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
+># Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
 ## DATE: 12/03/2026
 
